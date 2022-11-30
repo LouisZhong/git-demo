@@ -4,3 +4,12 @@ h1 {
 p {
   font-size: 20px
 }
+p {
+  color: green
+}
+p {
+  border: 1px solid red
+}
+p {
+  margin: 2px
+}
